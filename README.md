@@ -10,4 +10,7 @@
 
 - [we got 85% accuracy at 8th EPOCH and 90% accuracy at 13th EPOCH](https://github.com/DrVenkataRajeshKumar/S8/blob/master/S8withoutFC.ipynb)
 
-
+### My Team Members
+- DR. VENKATA RAJESH KUMAR
+- MEENAKSHI
+- VIVEK
