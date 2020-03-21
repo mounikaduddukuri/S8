@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 02:19:02 2020
 
-@author: SG0304944
-"""
 
 import pprint
 
