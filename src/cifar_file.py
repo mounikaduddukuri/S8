@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 02:20:10 2020
 
-@author: SG0304944
-"""
 
 import torch
 import torchvision
