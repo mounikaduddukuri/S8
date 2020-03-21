@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 02:53:55 2020
-
-@author: SG0304944
-"""
-
 import torch
 from torchsummary import summary
 import matplotlib.pyplot as plt
