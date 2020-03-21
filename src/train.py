@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 03:21:18 2020
-
-@author: SG0304944
-"""
-
 from tqdm import tqdm
 
 def train(model, device, train_loader, criterion, optimizer, epoch):
