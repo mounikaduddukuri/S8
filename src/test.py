@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 03:23:30 2020
-
-@author: SG0304944
-"""
-
 import torch
 
 def test(model, device, test_loader, criterion, classes, test_losses, test_accs, misclassified_imgs, is_last_epoch):
